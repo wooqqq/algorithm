@@ -24,7 +24,7 @@ public class p10157 {
 
         if (K > C * R)
             sb.append("0");
-        else
+//        else
 
     }
 }
